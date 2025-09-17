@@ -1,0 +1,15 @@
+name: Link Checker
+
+on:
+  schedule:
+    - cron: '0 12 * * 0' # weekly
+  workflow_dispatch: # manual run
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lycheeverse/lychee-action@v1.9.2
+        with:
+          args: --verbose README.md
