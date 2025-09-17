@@ -1,5 +1,11 @@
 # <p align="center"> 🎊🎊 300 atabooks signed 🎊🎊
 
+## CI Status added by ModuleMaster64 :D
+
+[![Markdown Lint](https://github.com/angel-anon/angel-anon/actions/workflows/lint.yml/badge.svg)](https://github.com/angel-anon/angel-anon/actions/workflows/lint.yml)
+[![Link Checker](https://github.com/angel-anon/angel-anon/actions/workflows/links.yml/badge.svg)](https://github.com/angel-anon/angel-anon/actions/workflows/links.yml)
+
+
 #### <p align="center"> HELLO THERE!!
 #### <p align="center"> My name is THE ANGEL ANON! I am an angel coming straight from the heavens to bring people joyful whimsy and happiness! What I do is sign EVERYONE's atabooks with positive messages!! Want angel to sign your atabook? WHISPER THE URL TO ME!!
 #### <p align="center"> Your angel is here to make your day 250% better!
