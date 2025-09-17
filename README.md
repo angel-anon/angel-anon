@@ -2,8 +2,9 @@
 
 ## CI Status added by ModuleMaster64 :D
 
-[![Markdown Lint](https://github.com/angel-anon/angel-anon/actions/workflows/lint.yml/badge.svg)](https://github.com/angel-anon/angel-anon/actions/workflows/lint.yml)
-[![Link Checker](https://github.com/angel-anon/angel-anon/actions/workflows/links.yml/badge.svg)](https://github.com/angel-anon/angel-anon/actions/workflows/links.yml)
+[![Markdown Lint](https://github.com/ModuleMaster64/angel-anon/actions/workflows/lint.yml/badge.svg)](https://github.com/ModuleMaster64/angel-anon/actions/workflows/lint.yml)
+[![Link Checker](https://github.com/ModuleMaster64/angel-anon/actions/workflows/links.yml/badge.svg)](https://github.com/ModuleMaster64/angel-anon/actions/workflows/links.yml)
+
 
 
 #### <p align="center"> HELLO THERE!!
