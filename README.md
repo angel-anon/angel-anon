@@ -1,9 +1,9 @@
 # <p align="center"> 🎊🎊 300 atabooks signed 🎊🎊
 
-## CI Status added by ModuleMaster64 :D
+## CI Status added by TheM1ddleM1n :D
 
-[![Markdown Lint](https://github.com/ModuleMaster64/angel-anon/actions/workflows/lint.yml/badge.svg)](https://github.com/ModuleMaster64/angel-anon/actions/workflows/lint.yml)
-[![Link Checker](https://github.com/ModuleMaster64/angel-anon/actions/workflows/links.yml/badge.svg)](https://github.com/ModuleMaster64/angel-anon/actions/workflows/links.yml)
+[![Markdown Lint](https://github.com/TheM1ddleM1n/angel-anon/actions/workflows/lint.yml/badge.svg)](https://github.com/TheM1ddleM1n/angel-anon/actions/workflows/lint.yml)
+[![Link Checker](https://github.com/TheM1ddleM1n/angel-anon/actions/workflows/links.yml/badge.svg)](https://github.com/TheM1ddleM1n/angel-anon/actions/workflows/links.yml)
 
 
 
