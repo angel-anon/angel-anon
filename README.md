@@ -1,4 +1,4 @@
-# <p align="center"> 🎊🎊 ANGEL ANON IS BACK!! 🎊🎊
+# <p align="center"> HYAVE A HAPPPY JOYFUL 2026!
 
 #### <p align="center"> HELLO THERE!!
 #### <p align="center"> My name is THE ANGEL ANON! I am an angel coming straight from the heavens to bring people joyful whimsy and happiness! What I do is sign EVERYONE's atabooks with positive messages!! Want angel to sign your atabook? WHISPER THE URL TO ME!!
